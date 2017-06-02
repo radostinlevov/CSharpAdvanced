@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\UserLogs\bin\Debug\UserLogs.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\UserLogs\bin\Debug\UserLogs.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\UserLogs\obj\Debug\UserLogs.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\UserLogs\obj\Debug\UserLogs.pdb

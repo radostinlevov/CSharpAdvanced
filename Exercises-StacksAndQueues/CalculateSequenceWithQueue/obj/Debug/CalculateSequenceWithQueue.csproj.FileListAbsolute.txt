@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb

@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb

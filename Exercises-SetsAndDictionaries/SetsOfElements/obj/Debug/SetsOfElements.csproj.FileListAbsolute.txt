@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\SetsOfElements\bin\Debug\SetsOfElements.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\SetsOfElements\bin\Debug\SetsOfElements.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\SetsOfElements\obj\Debug\SetsOfElements.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\SetsOfElements\obj\Debug\SetsOfElements.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\SetsOfElements\obj\Debug\SetsOfElements.pdb

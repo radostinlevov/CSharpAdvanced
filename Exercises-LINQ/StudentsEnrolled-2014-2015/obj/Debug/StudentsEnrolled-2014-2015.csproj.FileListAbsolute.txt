@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\StudentsEnrolled-2014-2015\bin\Debug\StudentsEnrolled-2014-2015.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\StudentsEnrolled-2014-2015\bin\Debug\StudentsEnrolled-2014-2015.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\StudentsEnrolled-2014-2015\bin\Debug\StudentsEnrolled-2014-2015.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\StudentsEnrolled-2014-2015\obj\Debug\StudentsEnrolled-2014-2015.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\StudentsEnrolled-2014-2015\obj\Debug\StudentsEnrolled-2014-2015.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\StudentsEnrolled-2014-2015\obj\Debug\StudentsEnrolled-2014-2015.pdb

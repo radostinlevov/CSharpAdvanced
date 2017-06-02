@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\LogsAggregetor\bin\Debug\LogsAggregetor.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\LogsAggregetor\bin\Debug\LogsAggregetor.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\LogsAggregetor\obj\Debug\LogsAggregetor.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\LogsAggregetor\obj\Debug\LogsAggregetor.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\LogsAggregetor\obj\Debug\LogsAggregetor.pdb

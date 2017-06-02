@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\StringLength\bin\Debug\StringLength.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\StringLength\bin\Debug\StringLength.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\StringLength\bin\Debug\StringLength.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\StringLength\obj\Debug\StringLength.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\StringLength\obj\Debug\StringLength.pdb

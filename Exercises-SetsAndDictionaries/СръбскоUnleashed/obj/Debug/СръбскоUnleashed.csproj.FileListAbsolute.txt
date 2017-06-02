@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\СръбскоUnleashed\bin\Debug\СръбскоUnleashed.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\СръбскоUnleashed\bin\Debug\СръбскоUnleashed.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.pdb

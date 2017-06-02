@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\ActionPrint\ReverseAndExclude\bin\Debug\ReverseAndExclude.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-FinctionalProgramming\ReverseAndExclude\bin\Debug\ReverseAndExclude.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-FinctionalProgramming\ReverseAndExclude\bin\Debug\ReverseAndExclude.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-FinctionalProgramming\ReverseAndExclude\bin\Debug\ReverseAndExclude.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-FinctionalProgramming\ReverseAndExclude\obj\Debug\ReverseAndExclude.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-FinctionalProgramming\ReverseAndExclude\obj\Debug\ReverseAndExclude.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-FinctionalProgramming\ReverseAndExclude\obj\Debug\ReverseAndExclude.pdb

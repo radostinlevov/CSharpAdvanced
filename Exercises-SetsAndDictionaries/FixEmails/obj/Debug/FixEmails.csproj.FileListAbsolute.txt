@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\FixEmails\bin\Debug\FixEmails.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\FixEmails\bin\Debug\FixEmails.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\FixEmails\obj\Debug\FixEmails.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\FixEmails\obj\Debug\FixEmails.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\FixEmails\obj\Debug\FixEmails.pdb

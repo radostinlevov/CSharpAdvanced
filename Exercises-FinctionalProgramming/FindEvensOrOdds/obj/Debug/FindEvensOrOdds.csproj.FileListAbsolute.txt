@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\ActionPrint\FindEvensOrOdds\bin\Debug\FindEvensOrOdds.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\ActionPrint\FindEvensOrOdds\bin\Debug\FindEvensOrOdds.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\ActionPrint\FindEvensOrOdds\bin\Debug\FindEvensOrOdds.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\ActionPrint\FindEvensOrOdds\obj\Debug\FindEvensOrOdds.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\ActionPrint\FindEvensOrOdds\obj\Debug\FindEvensOrOdds.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\ActionPrint\FindEvensOrOdds\obj\Debug\FindEvensOrOdds.pdb

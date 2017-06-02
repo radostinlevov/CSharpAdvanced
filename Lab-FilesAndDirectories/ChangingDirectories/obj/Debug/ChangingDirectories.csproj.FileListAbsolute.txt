@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\ChangingDirectories\bin\Debug\ChangingDirectories.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\ChangingDirectories\bin\Debug\ChangingDirectories.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\ChangingDirectories\bin\Debug\ChangingDirectories.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\ChangingDirectories\obj\Debug\ChangingDirectories.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\ChangingDirectories\obj\Debug\ChangingDirectories.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\ChangingDirectories\obj\Debug\ChangingDirectories.pdb

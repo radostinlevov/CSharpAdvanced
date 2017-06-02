@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\ExcellentStudents\bin\Debug\ExcellentStudents.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\ExcellentStudents\bin\Debug\ExcellentStudents.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\ExcellentStudents\bin\Debug\ExcellentStudents.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\ExcellentStudents\obj\Debug\ExcellentStudents.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\ExcellentStudents\obj\Debug\ExcellentStudents.pdb

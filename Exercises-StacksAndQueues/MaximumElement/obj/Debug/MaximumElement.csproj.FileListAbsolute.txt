@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\MaximumElement\bin\Debug\MaximumElement.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-StacksAndQueues\MaximumElement\obj\Debug\MaximumElement.pdb

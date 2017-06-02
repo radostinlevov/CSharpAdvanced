@@ -1,0 +1,1 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-LINQ\Skeleton\bin\Debug\Skeleton.exe.config

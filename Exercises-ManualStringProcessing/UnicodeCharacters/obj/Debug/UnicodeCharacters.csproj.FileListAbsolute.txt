@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

@@ -1,0 +1,6 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-ManualStringProcessing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.csprojResolveAssemblyReference.cache

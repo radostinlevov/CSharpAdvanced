@@ -1,0 +1,4 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\CountSymbols\bin\Debug\CountSymbols.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\CountSymbols\bin\Debug\CountSymbols.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\CountSymbols\obj\Debug\CountSymbols.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Exercises-SetsAndDictionaries\CountSymbols\obj\Debug\CountSymbols.pdb

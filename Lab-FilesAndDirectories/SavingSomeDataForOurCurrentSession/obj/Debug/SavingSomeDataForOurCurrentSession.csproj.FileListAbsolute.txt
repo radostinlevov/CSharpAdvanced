@@ -1,0 +1,5 @@
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\SavingSomeDataForOurCurrentSession\bin\Debug\SavingSomeDataForOurCurrentSession.exe.config
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\SavingSomeDataForOurCurrentSession\bin\Debug\SavingSomeDataForOurCurrentSession.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\SavingSomeDataForOurCurrentSession\bin\Debug\SavingSomeDataForOurCurrentSession.pdb
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\SavingSomeDataForOurCurrentSession\obj\Debug\SavingSomeDataForOurCurrentSession.exe
+D:\Programming\Visual Studio 2015\Projects\C# Advanced\Lab-FilesAndDirectories\SavingSomeDataForOurCurrentSession\obj\Debug\SavingSomeDataForOurCurrentSession.pdb
